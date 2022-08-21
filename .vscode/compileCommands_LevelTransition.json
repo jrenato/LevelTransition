@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\Source\\LevelTransition\\LevelTransition.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition\\LevelTransition.211.rsp\"",
+		"directory": "C:\\Epic\\Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\Source\\LevelTransition\\LevelTransition.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition\\LevelTransition.211.rsp\"",
+		"directory": "C:\\Epic\\Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\Source\\LevelTransition\\LevelTransition.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition\\LevelTransition.211.rsp\"",
+		"directory": "C:\\Epic\\Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\Source\\LevelTransition\\LevelTransitionCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition\\LevelTransition.211.rsp\"",
+		"directory": "C:\\Epic\\Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\Source\\LevelTransition\\LevelTransitionCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition\\LevelTransition.211.rsp\"",
+		"directory": "C:\\Epic\\Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\Source\\LevelTransition\\LevelTransitionGameMode.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition\\LevelTransition.211.rsp\"",
+		"directory": "C:\\Epic\\Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\Source\\LevelTransition\\LevelTransitionGameMode.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition\\LevelTransition.211.rsp\"",
+		"directory": "C:\\Epic\\Games\\UE_5.0\\Engine\\Source"
+	}
+]
