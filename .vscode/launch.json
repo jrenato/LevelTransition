@@ -8,13 +8,13 @@
 			"preLaunchTask": "LevelTransition Win64 Debug Build",
 			"args": [
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
@@ -24,13 +24,13 @@
 			"preLaunchTask": "LevelTransition Win64 DebugGame Build",
 			"args": [
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
@@ -40,13 +40,13 @@
 			"preLaunchTask": "LevelTransition Win64 Development Build",
 			"args": [
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
@@ -56,13 +56,13 @@
 			"preLaunchTask": "LevelTransition Win64 Test Build",
 			"args": [
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
@@ -72,71 +72,71 @@
 			"preLaunchTask": "LevelTransition Win64 Shipping Build",
 			"args": [
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
 			"name": "Launch LevelTransitionEditor (Debug)",
 			"request": "launch",
-			"program": "C:\\Epic\\Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"program": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "LevelTransitionEditor Win64 Debug Build",
 			"args": [
 				"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\LevelTransition.uproject"
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
 			"name": "Launch LevelTransitionEditor (DebugGame)",
 			"request": "launch",
-			"program": "C:\\Epic\\Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"program": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "LevelTransitionEditor Win64 DebugGame Build",
 			"args": [
 				"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\LevelTransition.uproject"
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
 			"name": "Launch LevelTransitionEditor (Development)",
 			"request": "launch",
-			"program": "C:\\Epic\\Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"program": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "LevelTransitionEditor Win64 Development Build",
 			"args": [
 				"C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\LevelTransition.uproject"
 			],
-			"cwd": "C:\\Epic\\Games\\UE_5.0",
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1",
 			"stopAtEntry": false,
 			"console": "externalTerminal",
 			"type": "cppvsdbg",
-			"visualizerFile": "C:\\Epic\\Games\\UE_5.0\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"visualizerFile": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 			"sourceFileMap": {
-				"D:\build\++UE5\Sync": "C:\\Epic\\Games\\UE_5.0"
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\Games\\UE_5.1"
 			}
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "coreclr",
 			"request": "launch",
-			"program": "C:\\Epic\\Games\\UE_5.0\\Engine\\Binaries\\DotNET\\UnrealBuildTool\\UnrealBuildTool",
+			"program": "D:\\Epic Games\\Games\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
 			"args": [
 				"-projectfiles",
 				"-vscode",
@@ -146,7 +146,7 @@
 			],
 			"console": "externalTerminal",
 			"stopAtEntry": false,
-			"cwd": "C:\\Epic\\Games\\UE_5.0"
+			"cwd": "D:\\Epic Games\\Games\\UE_5.1"
 		}
 	]
 }

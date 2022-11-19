@@ -2,17 +2,19 @@
     "configurations": [
         {
             "name": "LevelTransitionEditor Editor Win64 Development (LevelTransition)",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition.json",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
             "cStandard": "c17",
-            "cppStandard": "c++17"
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_LevelTransition.json"
         },
         {
             "name": "Win32",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_Default.json",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe",
             "cStandard": "c17",
-            "cppStandard": "c++17"
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\karva\\Documents\\Unreal Projects\\LevelTransition\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4
